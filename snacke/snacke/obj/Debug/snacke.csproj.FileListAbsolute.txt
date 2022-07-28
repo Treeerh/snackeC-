@@ -1,0 +1,8 @@
+D:\GeekBrains\IT\oop\snackeC#\snacke\snacke\bin\Debug\snacke.exe.config
+D:\GeekBrains\IT\oop\snackeC#\snacke\snacke\bin\Debug\snacke.exe
+D:\GeekBrains\IT\oop\snackeC#\snacke\snacke\bin\Debug\snacke.pdb
+D:\GeekBrains\IT\oop\snackeC#\snacke\snacke\obj\Debug\snacke.csproj.AssemblyReference.cache
+D:\GeekBrains\IT\oop\snackeC#\snacke\snacke\obj\Debug\snacke.csproj.SuggestedBindingRedirects.cache
+D:\GeekBrains\IT\oop\snackeC#\snacke\snacke\obj\Debug\snacke.csproj.CoreCompileInputs.cache
+D:\GeekBrains\IT\oop\snackeC#\snacke\snacke\obj\Debug\snacke.exe
+D:\GeekBrains\IT\oop\snackeC#\snacke\snacke\obj\Debug\snacke.pdb
